@@ -1,0 +1,36 @@
+{
+    "author": "tantai",
+    "description": "中英双语NIV版圣经",
+    "extension": null,
+    "generator": "gitbook",
+    "isbn": "",
+    "links": {
+        "sharing": {
+            "all": null,
+            "facebook": null,
+            "google": null,
+            "twitter": null,
+            "weibo": null
+        },
+        "sidebar": {
+            "gitbook": "https://www.gitbook.com/book/zergtant/holy-bible-niv-chinese-translate/details"
+        }
+    },
+    "output": null,
+    "pdf": {
+        "fontSize": 22,
+        "footerTemplate": null,
+        "headerTemplate": null,
+        "margin": {
+            "bottom": 15,
+            "left": 32,
+            "right": 32,
+            "top": 15
+        },
+        "pageNumbers": true,
+        "paperSize": "a4"
+    },
+    "plugins": [],
+    "title": "中英双语NIV版圣经",
+    "variables": {}
+}
